@@ -1,0 +1,4 @@
+configuration-as-code:latest
+configuration-as-code-support:latest
+git:latest
+workflow-cps-global-lib:latest
